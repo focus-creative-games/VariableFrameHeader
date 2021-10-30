@@ -1,0 +1,2 @@
+# VariableFrameHeader
+以类似pb varint格式的length作帧头的无需提前知道body大小的O(1)额外时间复杂度帧格式算法
